@@ -80,7 +80,8 @@ body {
 }
 
 .logo-wrap img {
-  width: 90%;
+  width: 85%;
+  height: auto;
 }
 
 /* BUTTON */
@@ -180,14 +181,14 @@ body {
 <!-- MAIN -->
 <div class="main">
 
-  <!-- YOUR LOGO -->
+  <!-- SKYEXCH LOGO -->
   <div class="logo-wrap">
-    <img src="1-removebg-preview (1).png" alt="SKY365DAY Logo">
+    <img src="skyexch-logo.png" alt="SKYEXCH Logo">
   </div>
 
   <a class="btn" href="https://wa.me/919876546253">Continue to chat</a>
 
-  <div class="username">SKY365DAY</div>
+  <div class="username">SKYEXCH</div>
   <div class="extra">I want cricket ID</div>
 
   <div class="mid-text">Don't have WhatsApp yet?</div>
