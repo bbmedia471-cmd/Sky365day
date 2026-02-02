@@ -182,7 +182,7 @@ body {
 
   <!-- YOUR LOGO -->
   <div class="logo-wrap">
-    <img src="1-removebg-preview (1).png" alt="Brandboy99 Logo">
+    <img src="1-removebg-preview (1).png" alt="SKY365DAY Logo">
   </div>
 
   <a class="btn" href="https://wa.me/919876546253">Continue to chat</a>
