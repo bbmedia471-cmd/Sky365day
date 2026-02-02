@@ -66,13 +66,13 @@ body {
   padding: 40px 20px 20px;
 }
 
-/* LOGO */
+/* WHATSAPP-STYLE LOGO (FIXED & VISIBLE) */
 .logo-wrap {
-  width: 170px;
-  height: 170px;
+  width: 168px;
+  height: 168px;
   border-radius: 50%;
-  border: 6px solid #f5c542;
-  background: #000;
+  background: #ffffff; /* FIX: white background */
+  box-shadow: 0 4px 14px rgba(0,0,0,0.12);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -80,8 +80,11 @@ body {
 }
 
 .logo-wrap img {
-  width: 85%;
+  width: 78%;
   height: auto;
+  object-fit: contain;
+}
+
 }
 
 /* BUTTON */
@@ -189,8 +192,11 @@ body {
 
   <a class="btn" href="https://wa.me/919876546253">Continue to chat</a>
 
+<div class="username-wrap">
   <div class="username">SKYEXCH</div>
-  <div class="extra">I want cricket ID</div>
+  <div class="verified">✓</div>
+</div>
+  
 
   <div class="mid-text">Don't have WhatsApp yet?</div>
   <span class="mid-link">Download</span>
